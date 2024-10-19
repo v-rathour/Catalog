@@ -1,6 +1,3 @@
-Here’s a simple `README.md` for the code:
-
----
 
 # Shamir's Secret Sharing (Lagrange Interpolation) in Node.js
 
