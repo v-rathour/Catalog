@@ -45,14 +45,14 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
 1. Open a terminal in the project directory.
 2. Run the following command to execute the program:
    ```bash
-   node shamirSecret.js
+   node findScecret.js
    ```
 
-The program will read the input data from `input.json`, compute the secret constant term of the polynomial, and print it to the console.
+The program will read the input data from `input1.json`, compute the secret constant term of the polynomial, and print it to the console.
 
 ### Example Output
 ```
-The constant term (secret) is: 42
+The constant term (secret) is: 3
 ```
 
 ## How It Works
